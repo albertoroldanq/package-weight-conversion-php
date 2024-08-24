@@ -18,7 +18,7 @@ composer require albertoroldanq/weight-conversions
 
 ```php
 $weightConversion = new Albertoroldanq\WeightConversions();
-echo $skeleton->echoPhrase('Hello, Albertoroldanq!');
+echo $weightConversion->echoPhrase('Hello, Albertoroldanq!');
 ```
 
 ## Testing
