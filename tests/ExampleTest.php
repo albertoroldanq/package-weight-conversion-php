@@ -2,7 +2,6 @@
 
 namespace Albertoroldanq\WeightConversions\Tests;
 
-
 class ExampleTest extends TestCase
 {
     /** @test */
