@@ -2,4 +2,6 @@
 
 namespace Albertoroldanq\WeightConversions;
 
-class WeightConversionsClass {}
+class WeightConversionsClass
+{
+}
