@@ -4,7 +4,7 @@
 [![Tests](https://img.shields.io/github/actions/workflow/status/albertoroldanq/weight-conversions/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/albertoroldanq/weight-conversions/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/albertoroldanq/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/albertoroldanq/weight-conversions)
 
-This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
+[Description placeholder - This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.]
 
 ## Installation
 
@@ -17,7 +17,7 @@ composer require albertoroldanq/weight-conversions
 ## Usage
 
 ```php
-$skeleton = new Albertoroldanq\WeightConversions();
+$weightConversion = new Albertoroldanq\WeightConversions();
 echo $skeleton->echoPhrase('Hello, Albertoroldanq!');
 ```
 
