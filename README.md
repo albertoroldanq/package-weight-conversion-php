@@ -1,7 +1,7 @@
 # PHP package to perform weight conversions
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/albertoroldanq/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/albertoroldanq/weight-conversions)
-[![Tests](https://img.shields.io/github/actions/workflow/status/albertoroldanq/package-weight-conversions-php/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/albertoroldanq/package-weight-conversion-php/actions/workflows/run-tests.yml)
+[![Tests](https://github.com/albertoroldanq/package-weight-conversions-php/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/albertoroldanq/package-weight-conversion-php/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/albertoroldanq/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/albertoroldanq/weight-conversions)
 
 The PHP framework-agnostic package can perform weight conversions simply and intuitively to convert between various weight units.
