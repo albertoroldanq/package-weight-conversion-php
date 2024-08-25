@@ -1,14 +1,13 @@
 # PHP package to perform weight conversions
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/albertoroldanq/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/albertoroldanq/weight-conversions)
-[![Tests](https://img.shields.io/github/actions/workflow/status/albertoroldanq/weight-conversions/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/albertoroldanq/weight-conversions/actions/workflows/run-tests.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/albertoroldanq/package-weight-conversions-php/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/albertoroldanq/package-weight-conversions-php/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/albertoroldanq/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/albertoroldanq/weight-conversions)
 
-[Description placeholder - This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.]
-
+The PHP framework-agnostic package can perform weight conversions simply and intuitively to convert between various weight units.
 ## Installation
 
-You can install the package via composer:
+You can install the package via Composer:
 
 ```bash
 composer require albertoroldanq/weight-conversions
