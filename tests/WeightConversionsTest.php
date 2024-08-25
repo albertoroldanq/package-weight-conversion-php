@@ -70,4 +70,30 @@ class WeightConversionsTest extends TestCase
         // Assert
         $this->assertEquals(0.7385714285714285, $stones);
     }
+
+    /** @test */
+    public function it_converts_from_grams_to_ounces()
+    {
+        // Arrange
+        $grams = 10.34;
+
+        // Act
+        $ounces = WeightConversions::gramsToOunces($grams);
+
+        // Assert
+        $this->assertEquals(0.36473306407520417, $ounces);
+    }
+
+    /** @test */
+    public function it_converts_from_ounces_to_grams()
+    {
+        // Arrange
+        $ounces = 10.34;
+
+        // Act
+        $grams = WeightConversions::ouncesToGrams($ounces);
+
+        // Assert
+        $this->assertEquals(293.13383, $grams);
+    }
 }

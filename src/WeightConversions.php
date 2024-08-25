@@ -35,4 +35,14 @@ class WeightConversions
     {
         return $pounds / 14;
     }
+
+    public static function gramsToOunces(float $grams): float
+    {
+        return $grams / 28.3495;
+    }
+
+    public static function ouncesToGrams(float $ounces): float
+    {
+        return $ounces * 28.3495;
+    }
 }
