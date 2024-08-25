@@ -42,7 +42,7 @@ class WeightConversionsTest extends TestCase
         $stones = WeightConversions::kilogramsToStones($kilograms);
 
         // Assert
-        $this->assertEquals(4.25169 , $stones);
+        $this->assertEquals(4.25169, $stones);
     }
 
     /** @test */

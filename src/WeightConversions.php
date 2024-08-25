@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Albertoroldanq\WeightConversions;
@@ -34,5 +35,4 @@ class WeightConversions
     {
         return $pounds / 14;
     }
-
 }
