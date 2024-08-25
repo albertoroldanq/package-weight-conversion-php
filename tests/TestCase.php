@@ -6,5 +6,4 @@ namespace Albertoroldanq\WeightConversions\Tests;
 
 abstract class TestCase extends \PHPUnit\Framework\TestCase
 {
-
 }
